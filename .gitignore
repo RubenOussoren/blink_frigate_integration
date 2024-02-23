@@ -1,3 +1,11 @@
+# Project Stuff:
+*log.txt
+temp_videos/*
+!temp_videos/unavailable_v2.mp4
+placeholder/videos/*
+
+# Python Stuff:
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

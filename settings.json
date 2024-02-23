@@ -1,0 +1,15 @@
+{
+  "watch_directory": "/path/to/watch/directory",
+  "delay_minutes": 30,
+  "stream_url": "rtsp://your.stream.url:port/streamname",
+  "temp_directory": "/path/to/temporary/videos/directory",
+  "duration": 600,
+  "playlist_dir": "/path/to/playlist/directory",
+  "placeholder_dir": "/path/to/placeholder/video.mp4",
+  "excluded_files": [
+    "example_excluded_file1.mp4",
+    "example_excluded_file2.mp4"
+  ],
+  "ffmpeg_vaapi_device": "/path/to/ffmpeg/vaapi/device",
+  "cleanup_min_age_minutes": 120
+}
